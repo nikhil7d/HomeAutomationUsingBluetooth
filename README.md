@@ -19,6 +19,7 @@ The Google Android Application and Google Play service is used as a voice to tex
 The Bluetooth receiver in HC-05 module receives the data transmitted from the smartphone. Subsequently this data is processed through the ATmega328 microcontroller present in the Arduino UNO. The Arduino board have different output ports which are connected to different home appliances through the 4-channel relay board. This relay board acting as switches and switches the home appliances ON/OFF as per the data processed through the Atmega328 microcontroller. For testing purpose we are using 2 25W, 240V AC bulbs connected to AC mains supply and a 5V DC motor connected to a 9V high watt battery. The appliances switches ON/OFF as per the commands given by the user.
 
 Following actions can be done by giving voice/text commands:
+
 •	Switch ON kitchen (blue) light.
 •	Switch ON bathroom (yellow) light.
 •	Switch ON all the lights at once.
