@@ -1,4 +1,4 @@
-# HomeAutomationUsingBluetooth
+# Home Automation System Using Bluetooth
 A Home Automation System using Bluetooth which controls home appliances with voice commands or text commands using an Android App.
 This project exhibits the development of an easy, adaptable and protected Home Automation System based on a smartphone and a microcontroller where you can control your home machines through voice commands or text commands. The plan depends on a microcontroller Arduino UNO board, 4 channel Relay Module, HC-05 Bluetooth Module. The home appliances are connected to the I/O ports by means of relay switches. The interaction between the cell phone and the Arduino UNO board is remote and secured and is password protected so that only the user has access to the appliances.
 
